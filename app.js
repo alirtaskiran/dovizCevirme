@@ -1,5 +1,5 @@
 const baseUrl = 'https://api.freecurrencyapi.com/v1';
-const apiKey = 'fca_live_rqjnbC7FvEzIL6b6absryHrBK4lNrc7VKJexgQqP';
+const apiKey = 'YOUR_API_KEY_HERE';
 
 function getUrl(path, baseCurrency) {
   if (baseCurrency) {
